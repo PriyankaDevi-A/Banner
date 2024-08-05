@@ -1,0 +1,19 @@
+[
+    {
+      "id": "1",
+      "title": "Summer Sale",
+      "description": "Get up to 50% off on summer collection!",
+      "cta": "Shop Now",
+      "image": "/images/summer-sale.jpg",
+      "background": "#ffeb3b"
+    },
+    {
+      "id": "2",
+      "title": "New Arrivals",
+      "description": "Check out the latest trends and styles.",
+      "cta": "Explore",
+      "image": "/images/new-arrivals.jpg",
+      "background": "#2196f3"
+    }
+  ]
+  
